@@ -1,8 +1,8 @@
+proj.android/app/Game.iml
 cocos2d
 proj.android/.idea
 proj.android/.gradle
 proj.android/gradle/**/*
-proj.android/app/Game.iml
 proj.android/local.properties
 proj.android/.idea/workspace.xml
 proj.android/.idea/libraries
@@ -10,3 +10,4 @@ proj.android.DS_Store
 proj.android/build
 proj.android/captures
 proj.android/.externalNativeBuild
+/proj.android/app/Game.iml
