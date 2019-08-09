@@ -1,1 +1,9 @@
 cocos2d
+proj.android/.gradle
+proj.android/local.properties
+proj.android/.idea/workspace.xml
+proj.android/.idea/libraries
+proj.android.DS_Store
+proj.android/build
+proj.android/captures
+proj.android/.externalNativeBuild
