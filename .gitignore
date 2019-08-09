@@ -1,4 +1,5 @@
 cocos2d
+proj.android/.idea
 proj.android/.gradle
 proj.android/local.properties
 proj.android/.idea/workspace.xml
