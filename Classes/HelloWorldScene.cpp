@@ -79,7 +79,6 @@ bool HelloWorld::init()
     auto menu = Menu::create(closeItem, NULL);
     menu->setPosition(Vec2::ZERO);
     this->addChild(menu, 1);
-
     /////////////////////////////
     // 3. add your codes below...
 

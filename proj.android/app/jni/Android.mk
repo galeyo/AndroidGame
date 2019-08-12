@@ -2,9 +2,9 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := MyGame_shared
+LOCAL_MODULE := Game_shared
 
-LOCAL_MODULE_FILENAME := libMyGame
+LOCAL_MODULE_FILENAME := libGame
 
 LOCAL_SRC_FILES := $(LOCAL_PATH)/hellocpp/main.cpp \
                    $(LOCAL_PATH)/../../../Classes/AppDelegate.cpp \

@@ -15,7 +15,7 @@ android {
         externalNativeBuild {
             if (PROP_BUILD_TYPE == 'ndk-build') {
                 ndkBuild {
-                    targets 'MyGame'
+                    targets 'Game'
                     arguments 'NDK_TOOLCHAIN_VERSION=clang'
                     arguments '-j' + Runtime.runtime.availableProcessors()
 
